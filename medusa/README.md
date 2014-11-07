@@ -1,20 +1,19 @@
 
 PROJECT MEDUSA.
+---------------
 
 Data Visualization of analysis results using Processing but in Eclipse IDE.
 
 Getting Started:
 
-	- Launch Eclipse and create workspace by pointing to "Medusa" folder. 
-	
-	- It uses 2013 result (watchlist_2013.xml) in /src folder. Feel free to add more.
-	
-	- Its includes Leap Motion support or can also use keyboard/mouse (see Controls below)
+* Launch Eclipse and create workspace by pointing to "medusa" folder. 
 
+* It uses `watchlist_2013.xml` in /src folder. Feel free to add more and edit LoadSketch.java
+
+- Its includes Leap Motion support or can also use keyboard/mouse (see Controls below)
 
 Adapted from on Kepler Visualization code by visual artist Jer Thorp @ blprnt@blprnt.com (awesome inspiration)
 http://blog.blprnt.com/blog/blprnt/data-in-an-alien-context-kepler-visualization-source-code
-
 
 Controls:
 
@@ -31,7 +30,7 @@ Toggle between view modes with the keys below:
 	5 - Restore zoom
 	6 - Change view mode / toggle flatness
 
-Using Leap Motion (see leap_gestures
+Using Leap Motion API in Processing
  
  Hand Orientation - control view/plane
  Swipe Gesture - Change view mode
@@ -42,8 +41,8 @@ Using Leap Motion (see leap_gestures
   Point & Hold Index Finger - To select (for 2s)
 	- Requires to be zoomed in to hover enabled level!
 	
- While zoomed out (i.e. hover disabled), hold out [N] finger for 5s to:
- 	1 - Sort by Fund Ranking (color)
- 	2 - Sort by Fund Ranking (color)
- 	3 - Sort by Number of Parents i.e. top competitive companies
+ While zoomed out (i.e. hover disabled), hold out [n] finger for 5s to:
+ 	[1] - Sort by Fund Ranking (color)
+ 	[2] - Sort by Fund Ranking (color)
+ 	[3] - Sort by Number of Parents i.e. top competitive companies
      Pinky finger - does nothing!
