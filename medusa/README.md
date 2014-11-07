@@ -45,4 +45,5 @@ Using Leap Motion API in Processing
 * [1] - Sort by Fund Ranking (color)
 * [2] - Sort by Fund Ranking (color)
 * [3] - Sort by Number of Parents i.e. top competitive companies
-     Pinky finger - does nothing!
+
+Pinky finger - does nothing!
