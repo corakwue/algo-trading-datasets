@@ -42,7 +42,7 @@ Using Leap Motion API in Processing
 	- Requires to be zoomed in to hover enabled level!
 	
  While zoomed out (i.e. hover disabled), hold out [n] finger for 5s to:
- 	[1] - Sort by Fund Ranking (color)
- 	[2] - Sort by Fund Ranking (color)
- 	[3] - Sort by Number of Parents i.e. top competitive companies
+* [1] - Sort by Fund Ranking (color)
+* [2] - Sort by Fund Ranking (color)
+* [3] - Sort by Number of Parents i.e. top competitive companies
      Pinky finger - does nothing!
